@@ -50,7 +50,8 @@
 
 ## Other
 1. socks+ underwear x10
-2. 
+2. dyson airstraight
+3. 
 
 ## PJS/comfy
 1. T shirt (3)
