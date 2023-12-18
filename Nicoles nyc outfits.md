@@ -51,7 +51,7 @@
 ## Other
 1. socks+ underwear x10
 2. dyson airstraight
-3. 
+3. Switch and switch charger
 
 ## PJS/comfy
 1. T shirt (3)
