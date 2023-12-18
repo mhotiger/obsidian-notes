@@ -46,6 +46,7 @@
 11. brown lulu crossbody
 12. thermals
 13. black square sunglasses
+14. Gloves
 
 ## Other
 1. socks+ underwear x10
