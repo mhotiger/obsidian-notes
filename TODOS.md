@@ -1,4 +1,4 @@
 
 ```dataview
-TASKS from daily-notes
+TASK from daily-notes/
 ```
