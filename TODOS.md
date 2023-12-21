@@ -1,5 +1,7 @@
+Collection of all active todos
 
-```dataview
-TASK
+```dataviewjs
+dv.taskList(dv.pages().file.tasks
+	.where(t => !t.completed))
 
 ```
