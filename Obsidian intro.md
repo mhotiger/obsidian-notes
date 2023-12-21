@@ -28,6 +28,12 @@ Add a divider with triple dash
 ---
 
 ### Lists
-[]checkbox
 
 
+To go further: look at
+[[Obsidian advanced uri]]
+[[Dataview in Obsidian]]
+
+
+Note taking strategies at
+[[zettelKasten]] method
