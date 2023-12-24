@@ -1,3 +1,5 @@
+Charcoal and authentic 2
+
 inset side panels- put a shim underneath the face plate of the doweling jig the same thickness of the reveal I want on the sides 
 
 
