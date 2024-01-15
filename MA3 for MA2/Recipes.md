@@ -30,3 +30,29 @@ Workflow thinking:
 Create an all pool that's designated for recipes
 Create window separation for each song like I do with others. (may not be necessary)
 For each song macro, set the current pointer to that point in the recipe all pool.
+
+
+## Cat west video
+
+Potentially old info, reading more
+Recipes can't reference themselves, So org isimportant
+Edit setting- add group, add preset/value
+Assign syntax- assign-touch group/value, touch column for recipe
+Last column is for matricks. You can manually input values or select a matricks pool object. Pool items will show up with angle brackets.
+
+
+When do we need to cook- when you first create a recipe, the console will cook automatically for the first time. If you change the ingredients of a recipe, you may need to cook. If you change the matricks or group value items you'll need to cook
+
+DANGER:
+If you change the group in a recipe preset, and it's referenced in a cue, the fixtures used in that cue will NOT update. It'll leave hard values from what was there before in the track sheet. 
+
+Maybe this means  I'll need to use cue recipes and not presets? That could destroy the workflow and mean that I'd need to recook EVERY CUE in a show. That sucks. 
+
+
+
+
+
+
+I might have luck with the turn into recipe AND take selection commands
+
+Maybe the right idea is actually to move everything to cue recipes, with groups
