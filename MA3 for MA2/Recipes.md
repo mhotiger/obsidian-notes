@@ -25,11 +25,14 @@ Creating a recipe preset:
 any preset needs to be turned into a recipe. You can turn into a recipe from an existing preset with values already there, or create a new blank recipe. 
 
 
-Workflow thinking:
+[[notes-repo/ma3 for ma2/Recipe Workflow]]
 
-Create an all pool that's designated for recipes
-Create window separation for each song like I do with others. (may not be necessary)
-For each song macro, set the current pointer to that point in the recipe all pool.
+Notes on recipes with instances:
+
+Store instances for your recipes to work. 
+Add new fixtures  with instances, and store in to a group used in a recipe.
+You need to select the fixtures AND the instances and store them into the group for the recipes to continue working. You can easily select all instances by selecting the fixtures and hitting the down key. 
+
 
 
 ## Cat west video
