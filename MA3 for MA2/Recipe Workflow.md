@@ -11,3 +11,9 @@ Assign group x at seq x cue y part 0.z
 z is the recpipe line number. 
 I'll probably need to keep track of a table of recipe line numbers for most recent, when updating with a same group and preset type, search and replace, and if not found, add a new recipe line and increment the new recipe line number for that cue. 
 
+
+
+[[Plugin and macros to build]]
+
+
+
