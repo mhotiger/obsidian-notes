@@ -1,6 +1,8 @@
 C02LL85BF8J2
 
 
+https://support.apple.com/specs/C02LL85BF8J2
+
 ### Display
 
 - 21.5-inch (diagonal) LED-backlit display with IPS technology; 1920-by-1080 resolution with support for millions of colors
