@@ -15,7 +15,7 @@ We can apply that to any other group of fixtures, and those values will be sprea
 We could recreate the same thing with align wheels, but this works for other selections
 
 It has a selective s, but works kind of more like global. It works for any of the same fixture type.
-If you use a magic preset straight up, it'll put hard values into the cue sheet. 
+**If you use a magic preset straight up, it'll put hard values into the cue sheet.** 
 
 This can work in x and y directions, it all depencds on the selection grid setup when you store the magic preset. 
 
