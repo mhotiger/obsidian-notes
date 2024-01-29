@@ -56,3 +56,31 @@ When they’re in the observatory, they both say they’d feel more at home outs
 “All my pictures come out” midge asks if the photo came out- doesn’t care about the alien one only herself
 
 Do you dare me- what’s the CAUSE what’s the MEANING- I don’t know, maybe it’s because I’m afraid otherwise no one else will notice my existence in the universe. 
+
+Woordrow “how can you think about this the world will never be the same again, what happens next nobody knows!
+Nobody knows repeats, what’s the meaning of life maybe there is one!
+
+He yells at augie “you took his picture” saying the thing he did could be important, he replies I’m a photographer. It’s just what he does. It’s how he copes with life- pushes forward with just what is and what should be, not taking time to examine what’s happening around him. 
+
+In the scene where Woodrow asks augie is he was going to abandon them- the auto shop has text that says clear vision with a rear view mirror. Maybe the palindrome theory was right? If so we’re already on the reverse end. The peak is the alien arriving possibly
+
+All the cast is lulled to sleep- is this whole thing a dream? Or is it real?
+What’s the play about - infinity
+
+Sleep- it’s not death. It’s not becoming stars, it’s active. Be inert, then dream. 
+
+Everything’s connected but nothings working
+
+
+Another augie photo that he didn’t take in the play- self portrait with shrapnel. Meanwhile midge is laying in the tub with a bottle of pills spilled beside her- as she mentioned earlier. This is how they both see themselves. Her as already dead and him as wounded but still alive. He asks “is she a ghost” about her character. Did she even exist?
+
+My daughter saw us- Dinah saw augie and midge through the window and admitted everything. This isn’t the beginning of something. Unless maybe it is.
+Alien looked at us like we’re doomed. Maybe we are: then he burns his hand.
+Why? It’s not clear. You really did it, that actually happened. 
+These are two contrasting “it isn’t clear” moments. For midge- the it isn’t clear is whether she’s a ghost or not. Is she alive or dead, was she there at all, is anything fleeting real? It seems she probably is with the “my mom IS a star@ comment made earlier. So we should see midge as an allegory of his late wife? Maybe returning to him, or representing the idea that the people who die never leave us. Which is in direct contradiction with what we know of midge so far, that she represents things fleeting. 
+
+For augie it’s the opposite. He sees himself as wounded, but never dead. The more he’s wounded the more he keeps on going, and maybe it’s by virtue of his disconnection to himself. 
+Augie an midge represent the ideas of disconnection and opposing ideas of continuation. He continues on, wounded, while midge doesn’t ever continue, and is dead (part of the stars, maybe she’s a ghost) it’s not clear if she’s actually dead- but what is clear is augie is ACTUALLY wounded. He has the shrapnel scar and then burns his hand (followed by midge “you actually did that”)
+
+
+What’s the point of projecting a star on the moon? Why take something celestial and bring it down to something terrestrial.
