@@ -6,7 +6,7 @@ We see repetitions from beginning to end. Might be a palindrome?
 
 
 Girls names-
-Andromeda, tandoor?, Cassiopeia 
+Andromeda, pandora, Cassiopeia 
 
 Some phrases are repetitious and circular
 1. Going to stay with your grandfather for an indefinite amount of time which has yet to be known how much time that’s going to be
@@ -21,6 +21,7 @@ Some phrases are repetitious and circular
 2. Midge sitting at the cafe. He never asks permission
 3. Midge in the bathroom- after was I ever there monologue
 4. The alien
+5. One theoretical picture- of his wife in a dream. When she tells him he needs to try and replace her. 
 
 
 
@@ -84,3 +85,33 @@ Augie an midge represent the ideas of disconnection and opposing ideas of contin
 
 
 What’s the point of projecting a star on the moon? Why take something celestial and bring it down to something terrestrial.
+
+They petition to change the name of asteroid city because the asteroid isn’t there. Immediacy the asteroid returns
+
+“I play the alien as a metaphor” for what “I don’t know we don’t pin it down” another “it isn’t clear moment, this time one level removed from the previous ones. 
+
+Am I doing it right. He didn’t become augie, augie became him. Isn’t there supposed to be some kind of answer in the cosmos wilderness- that’s the original name of the play. Asteroid city is the cosmic wilderness, and where there’s supposed to be an answer
+I don’t understand the play. Doesn’t matter, just keep telling the story.
+I need a breath of fresh air. Well ok, but you won’t find one. 
+
+The wife who played my actress
+We meet in a dream on the aliens planet. She’s playing in “fruit of a withering vine” earlier in the movie midge says she’s wilting, and Dinah corrects her, and explains “wilting is a phenomenon…”
+About the alien” I think he’s shy” “so is Woodrow but I think 
+“I think Woodrow will need to replace me” “I can’t” “I think you need to try, I’m not coming back augie
+
+Then he takes a picture of her and starts crying.
+I hope it comes out. He says (the only line he physically says)
+All my pictures come out
+
+Six months into the plays running, the playwright unexpectedly dies.
+
+You can’t wake up if you don’t fall asleep- and the alien returns
+
+Epilogue. We return to asteroid city. 
+ Did someone win the scholarship? Yes,woodrow
+ 
+Midge Campbell left her address, but it’s just a P.O. Box.
+Then another atom bomb test and the endless chase (!!) returns. Then we’re taken out of asteroid city by the train, just as we were brought in.
+The train recedes exactly where it came from. 
+
+Everything is cyclical
