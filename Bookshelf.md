@@ -22,8 +22,12 @@ Route a channel in it for the cable to run through and then use a veneer or some
 Will need to cut in into thin strips. I can attach it with magnets I think. The channel will need to be at least as deep as the hardboard plus two magnets.   Glue the magnets onto each strip and then embed a magnet into the leg, just deep enough that the two magnets will meet up and land the veneer flush with the leg. 
 
 
+
 Door frame- opening 14.5 x 78
 
 ADD 1.5 height for the recess-- 14.5 x 79.5
 
 Glass dimensions: add 3/8 all around- should be 15.25 x 80.25
+
+
+
