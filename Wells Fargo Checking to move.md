@@ -1,0 +1,8 @@
+- [ ] Chase Card
+- [ ] Amex Card
+- [ ] Rent
+- [ ] Nintendo account
+- [ ] Student loans
+- [ ] venmo
+- [ ] vanguard
+- [ ] 
